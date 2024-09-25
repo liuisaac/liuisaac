@@ -1,8 +1,16 @@
-### Hi there 👋 I'm Isaac Liu.
+###  👋 I'm Isaac Liu.
 ---
 > Welcome to my GitHub page!
 
+I'm a second year at the University of British Columbia.
 
+I'm currently working on...
+
+- building Mecha Mayhem 2025, Canada's largest robotics competition 🌱
+- a Undergrad Teaching Assistant @ UBC 📓
+- applying for winter/summer 2025 internships 😭
+
+Reach me at liuisaac05@gmail.com 📫
 <!--
 **liuisaac/liuisaac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
