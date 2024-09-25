@@ -7,7 +7,7 @@ I'm a second year at the University of British Columbia.
 I'm currently working on...
 
 - building Mecha Mayhem 2025, Canada's largest robotics competition 🌱
-- a Undergrad Teaching Assistant @ UBC 📓
+- TAing CPSC 110 @ UBC 📓
 - applying for winter/summer 2025 internships 😭
 
 Reach me at liuisaac05@gmail.com 📫
