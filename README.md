@@ -2,6 +2,8 @@
 
 # hey, i'm <a href="https://isaacpliu.com" target="_blank">isaac</a>
 
+- 2nd year CPSC student 🆘
+- Junior Dev @ UBC Biztech 🤖
 - working on Mecha Mayhem 2025, Canada's largest robotics competition 🚀
 - TAing CPSC 110 @ UBC 📖
 - applying for winter/summer 2025 internships 😭
