@@ -6,7 +6,7 @@
 - Junior Dev @ UBC Biztech 🤖
 - working on Mecha Mayhem 2025, Canada's largest robotics competition 🚀
 - TAing CPSC 110 @ UBC 📖
-- applying for winter/summer 2025 internships 😭
+- INTERNSHIP SECURED 💯
 
 ### languages and tools:
 
