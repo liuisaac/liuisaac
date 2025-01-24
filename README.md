@@ -13,9 +13,12 @@
 [![My Skills](https://skillicons.dev/icons?i=py,java,c,cpp,js,ts,html,css,tailwind,react,next,vite,nodejs,npm,firebase,mongo,mysql,aws,gcp,bash,git)](https://skillicons.dev)
 <br />
 
-### Interested in hiring me?
+### interested in hiring me?
 > [!IMPORTANT]  
-> <a href="https://drive.google.com/file/d/1ZZxfnsMnrJsSwQla3Nq0wdTUf-SyvdEO/view?usp=sharing" download>Download my resume here</a>
+>  **Check out my resume!** 📄
+> <br/>
+> [**Download it here**](https://drive.google.com/file/d/1ZZxfnsMnrJsSwQla3Nq0wdTUf-SyvdEO/view?usp=sharing)
+
 
 <br />
 
