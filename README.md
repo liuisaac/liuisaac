@@ -6,7 +6,7 @@
 - Dev @ UBC Biztech 🤖
 - working on Mecha Mayhem 2026, Canada's largest robotics competition 🚀
 - building ChooChoo — a pocket-size distributed key-value store in Go 🚂
-- INTERNSHIP SECURED 💯
+- back on the internship hunt 😭
 
 ### languages and tools:
 
