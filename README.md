@@ -5,12 +5,12 @@
 - 3rd year CPSC student 🆘
 - Dev @ UBC Biztech 🤖
 - working on Mecha Mayhem 2026, Canada's largest robotics competition 🚀
-- building ChooChoo — a pocket-size distributed key-value store in Go 🚂
-- back on the internship hunt 😭
+- still building ChooChoo - a distributed kv store in one .exe 🚂
+- see you in ny 💯
 
 ### languages and tools:
 
-[![My Skills](https://skillicons.dev/icons?i=py,java,c,cpp,js,ts,html,css,tailwind,react,next,vite,nodejs,npm,firebase,mongo,mysql,aws,gcp,bash,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,c,cpp,js,ts,go,html,css,tailwind,react,next,vite,nodejs,firebase,mongo,bash,npm,mysql,postgres,jenkins,docker,kubernetes,aws,azure,gcp,git&perline=9)](https://skillicons.dev)
 <br />
 
 ### interested in hiring me?
