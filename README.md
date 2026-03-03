@@ -4,8 +4,7 @@
 
 - 3rd year CPSC student 🆘
 - Dev @ UBC Biztech 🤖
-- working on Mecha Mayhem 2026, Canada's largest robotics competition 🚀
-- still building ChooChoo - a distributed kv store in one .exe 🚂
+- slopforking obsidian 📝
 - see you in ny 💯
 
 ### languages and tools:
@@ -28,7 +27,5 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=liuisaac&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 [![my github stats](https://github-readme-stats.vercel.app/api?username=liuisaac&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
-
-<sub>hey, readmes are pretty fun</sub>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=003049&height=120&section=footer" alt="footer"/>
