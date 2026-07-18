@@ -4,7 +4,6 @@
 
 - 4th year CPSC student 🆘
 - Dev @ UBC Biztech 🤖
-- breaking into cassandra 💽
 - larping in nyc 💯
 
 ### languages and tools:
